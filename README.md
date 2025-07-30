@@ -15,6 +15,7 @@ Authors:
   4. Rodar o script randgenfinal.py
     - python2 randgenfinal.py
         (command-line input) \[adicionar elemento 1 e a composição\] \[adicionar elemento 2 e a composição 2\]
+
 2º PROCESSO DE CLUSTERIZAÇÃO
   Na pasta anterior, rodar o script “silscript.py”
     python3 silscript.py 1 AnBm n
