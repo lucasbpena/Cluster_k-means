@@ -14,8 +14,7 @@ Authors:
     - Mudar o nome do range (número de estruturas que devem ser geradas)
   4. Rodar o script randgenfinal.py
     - python2 randgenfinal.py
-      *adicionar elemento 1 e a composição 1
-      *adicionar elemento 2 e a composição 2
+        (command-line input) \[adicionar elemento 1 e a composição\] \[adicionar elemento 2 e a composição 2\]
 2º PROCESSO DE CLUSTERIZAÇÃO
   Na pasta anterior, rodar o script “silscript.py”
     python3 silscript.py 1 AnBm n
