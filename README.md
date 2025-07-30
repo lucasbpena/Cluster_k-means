@@ -1,6 +1,6 @@
 Authors: 
   - Marcos G. Quiles (@quiles) 
-  - Marinalva Soares
+  - Marinalva D. Soares
 
 1º GERAR ESTRUTURAS ALEATÓRIAS
   1. Arquivo .xyz
