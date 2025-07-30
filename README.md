@@ -1,3 +1,7 @@
+Authors: 
+  - Marcos G. Quiles (@quiles) 
+  - Marinalva Soares
+
 1º GERAR ESTRUTURAS ALEATÓRIAS
   1. Arquivo .xyz
     - Deixar só as coordenadas atômicas (apagar o número 55, a linha em branco e o elemento)
